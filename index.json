@@ -1,0 +1,11 @@
+{
+  "org": "tfranzel",
+  "repo": "drf-spectacular",
+  "versions": [
+    {
+      "commit": "1a5c44a15b2d06744f49285f1f58992f938a05fa",
+      "tag": "0.30.0",
+      "parsed_at": "2026-10-18T10:22:12.827765+00:00"
+    }
+  ]
+}
