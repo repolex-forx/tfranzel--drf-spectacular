@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/tfranzel/drf-spectacular/commit/1a5c44a15b2d06744f49285f1f58992f938a05fa",
       "git:hexsha": "1a5c44a15b2d06744f49285f1f58992f938a05fa",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "0.30.0"
     },
     {

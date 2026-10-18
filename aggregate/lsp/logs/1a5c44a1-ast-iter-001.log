@@ -1,0 +1,7 @@
+[2026-10-18T10:19:17Z] === AST ITERATION 1 START | repo=tfranzel/drf-spectacular sha=1a5c44a1 ===
+[2026-10-18T10:19:17Z] [iter=1] PHASE START: ast repo=tfranzel/drf-spectacular sha=1a5c44a1
+[2026-10-18T10:19:17Z] [iter=1] Building AST aggregate chunks
+[2026-10-18T10:21:03Z] [iter=1] AST chunks built count=1 triples=946843
+[2026-10-18T10:21:03Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/1a5c44a15b2d06744f49285f1f58992f938a05fa/.complete
+[2026-10-18T10:21:03Z] [iter=1] PHASE END: ast elapsed_s=106 elapsed_min=1.8
+[2026-10-18T10:21:03Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json
